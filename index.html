@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UnPbCI</title>
+    <link rel="stylesheet" href="style/app.css">
+    <link rel="stylesheet" href="style/bootstrap.min.css">
+    <script src="script/bootstrap.bundle.min.js"></script>
+</head>
+<body data-bs-theme="dark">
+    <svg id="my_dataviz">
+        <defs>
+            <pattern id="pattern" patternUnits="userSpaceOnUse" width="10" height="10">
+                <rect width="10" height="10" fill="blue" />
+                <circle cx="5" cy="5" r="2" fill="darkblue" />
+            </pattern>
+        </defs>
+    </svg>
+    <!-- banner -->
+    <div class="position-absolute top-0 p-2 text-center blur">
+        <h1><span class="text-primary">Un</span><span class="text-success">Pb</span><span class="text-warning">CI</span></h1>
+        <p><strong><em>les universités publiques de la Côte d'Ivoire</em></strong></p>
+    </div>
+
+    <!-- Menu -->
+    <div class="position-absolute top-0 end-0 h-100 w-25 d-flex align-items-center justify-content-center">
+        <div class="card">
+            <div class="card-header">
+                <div class="mb-3">
+                    <label for="" class="form-label">Université</label>
+                    <input
+                        type="search"
+                        class="form-control"
+                        id="search"
+                        aria-describedby="helpId"
+                        placeholder="Ex: Université Félix ..."
+                    />
+                    <small id="helpId" class="form-text text-muted">Recherche une université par ville</small>
+                </div>
+                
+            </div>
+            <div class="card-body overflow-y-auto" style="height: 40vh;" id="container" >
+                  
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- Modal -->
+    <div class="modal fade" id="seeMore" tabindex="-1"  aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Ville : <span id="showRegion"></span></h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-5" id="show">
+                 
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    <script src="script/d3.min.js"></script>
+    <script src="script/app.js"></script>
+</body>
+</html>

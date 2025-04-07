@@ -1,0 +1,30 @@
+{
+    "Abidjan": {
+        "Desc": "Abidjan, la capitale économique de la Côte d'Ivoire, abrite plusieurs universités publiques de renom telles que l'Université Félix Houphouët-Boigny et l'Université Nangui Abrogoua. Ces institutions offrent une large gamme de programmes académiques et sont des centres d'excellence pour l'enseignement supérieur et la recherche en Afrique de l'Ouest.",
+        "MapImgUrl": "https://th.bing.com/th/id/R.30c738d6eee0a959e06f4c12babdd76a?rik=80p7RHz%2f8mT3%2fQ&riu=http%3a%2f%2ftravelsmaps.com%2fwp-content%2fuploads%2f2016%2f09%2fmap-of-abidjan_2.jpg&ehk=qDpY6eMdiJhSnJu9fTY%2bRjMr5pXrcFqQWGzeshHWP%2fI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    "Bouaké": {
+        "Desc": "Bouaké, située dans la région de la Vallée du Bandama, est connue pour l'Université Alassane Ouattara. Fondée en 1994, cette institution propose des programmes variés allant des sciences sociales aux sciences appliquées, et contribue au développement académique de la région.",
+        "MapImgUrl": "https://www.weather-forecast.com/locationmaps/Bouake.10.gif"
+    },
+    "Korhogo": {
+        "Desc": "Korhogo, située au nord du pays, est le siège de l'Université Péléforo Gon Coulibaly. Cette université publique propose des programmes axés sur les sciences, la gestion et l'agriculture, et joue un rôle clé dans le développement éducatif du nord ivoirien.",
+        "MapImgUrl": "https://th.bing.com/th/id/R.e0d550d7cf4b49d577f27d13e1e75435?rik=VsrJQZO2m3NBHw&riu=http%3a%2f%2fmaps.maphill.com%2fcote-d-ivoire%2fkorhogo%2fsimple-maps%2fpolitical-map%2fsingle-color-outside%2fborders-labels%2fpolitical-simple-map-of-korhogo-single-color-outside-borders-labels.jpg&ehk=XCl3AyeIj0NwqY%2bCx5x9mku%2ftQrcvIonkg1DKXDs2vc%3d&risl=&pid=ImgRaw&r=0"
+    },
+    "Man": {
+        "Desc": "Man, située dans l'ouest montagneux de la Côte d'Ivoire, accueille des institutions d'enseignement supérieur spécialisées dans les sciences environnementales et les études culturelles, contribuant à la richesse académique de la région.",
+        "MapImgUrl": "https://www.researchgate.net/publication/361956349/figure/fig1/AS:11431281078968387@1660434583775/Carte-de-la-commune-de-Man-et-les-sites-dechantillonnage.ppm"
+    },
+    "Daloa": {
+        "Desc": "Daloa est connue pour son Université Jean Lorougnon Guédé, qui se concentre sur les sciences agricoles et environnementales. Elle joue un rôle crucial dans le développement rural et académique de la région.",
+        "MapImgUrl": "https://i.pinimg.com/originals/ce/40/b0/ce40b086b1f1f710adb15b0c35f2d282.jpg"
+    },
+    "San-Pédro": {
+        "Desc": "San-Pédro, portuaire et dynamique, commence à se développer dans le domaine universitaire avec des institutions émergentes axées sur les sciences maritimes et les technologies.",
+        "MapImgUrl": "https://th.bing.com/th/id/OIP.kNtw0amzq1sq6Y8fbWi2AwHaHg?rs=1&pid=ImgDetMain"
+    },
+    "Yamoussoukro": {
+        "Desc": "Yamoussoukro, capitale politique de la Côte d'Ivoire, est célèbre pour l'Institut National Polytechnique Félix Houphouët-Boigny (INP-HB), une institution phare spécialisée dans l'ingénierie, les sciences appliquées et la formation technique.",
+        "MapImgUrl": "https://th.bing.com/th/id/OIP.7_uMSni9JklvNfNt7Jd7sAHaI0?rs=1&pid=ImgDetMain"
+    }
+}

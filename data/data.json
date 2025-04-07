@@ -1,0 +1,188 @@
+{  "empty" : {
+
+    },
+
+    "Abidjan": {
+            "Université Félix Houphouët-Boigny (UFHB)": {
+                "Title": "Université Félix Houphouët-Boigny",
+                "ShortDesc": "Principale université de Côte d'Ivoire, offrant des formations pluridisciplinaires.",
+                "Desc": "L'Université Félix Houphouët-Boigny (UFHB), située à Cocody (Abidjan), est la plus grande université de Côte d'Ivoire. Elle propose des formations en sciences, santé, lettres, droit, économie et sciences sociales. Fondée en 1964, elle est un pôle majeur de recherche en Afrique de l'Ouest.",
+                "fullDesc": "https://www.univ-fhb.edu.ci/",
+                "ImgUrl": "https://th.bing.com/th/id/R.c931b11068e7efb010d27d076534a880?rik=1Nr5kdCHE4jKAQ&pid=ImgRaw"
+            },
+            "Université Nangui Abrogoua (UNA)": {
+                "Title": "Université Nangui Abrogoua",
+                "ShortDesc": "Université spécialisée en sciences naturelles, agronomie et pharmacie.",
+                "Desc": "Située à Abobo (Abidjan), l'UNA est spécialisée dans les domaines des sciences naturelles, de l'agronomie, de la pharmacie et des sciences de la santé. Issue de la division de l'ancienne Université d'Abidjan, elle joue un rôle clé dans la formation scientifique en Côte d'Ivoire.",
+                "fullDesc": "https://www.univ-na.ci/",
+                "ImgUrl": "https://www.univ-na.ci/storage/settings/March2021/q7ebFVlLpG3BnHZWV47N.png"
+            },
+            "Université Alassane Ouattara (UAO) - Campus Abidjan": {
+                "Title": "Université Alassane Ouattara (Campus Abidjan)",
+                "ShortDesc": "Antenne abidjanaise de l'UAO, proposant des formations en sciences humaines et sociales.",
+                "Desc": "Bien que son siège principal soit à Bouaké, l'UAO dispose d'un campus à Abidjan, offrant des formations en droit, économie, gestion et sciences sociales. Elle contribue à la décentralisation de l'enseignement supérieur en Côte d'Ivoire.",
+                "fullDesc": "https://www.uao.edu.ci/",
+                "ImgUrl": "https://i0.wp.com/univ-ao.edu.ci/wp-content/uploads/2021/06/LOGO-PSD.png?w=1250&ssl=1"
+            },
+            "Institut National Polytechnique Félix Houphouët-Boigny (INP-HB)": {
+                "Title": "INP-HB (Yamoussoukro & Abidjan)",
+                "ShortDesc": "Grande école d'ingénieurs et de formation professionnelle.",
+                "Desc": "Bien que basé principalement à Yamoussoukro, l'INP-HB dispose d'antennes à Abidjan. Il forme des ingénieurs et techniciens supérieurs dans des domaines comme l'agronomie, l'industrie et les mines.",
+                "fullDesc": "https://www.inphb.ci/",
+                "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+            },
+            "Université Nangui Abrogoua - Pôle Anyama": {
+            "Title": "Université Nangui Abrogoua - Pôle Anyama",
+            "ShortDesc": "Antenne de l'UNA spécialisée en sciences et technologies",
+            "Desc": "Le pôle d'Anyama de l'Université Nangui Abrogoua propose des formations en sciences fondamentales et appliquées, avec un focus particulier sur les biotechnologies et l'environnement.",
+            "fullDesc": "https://www.univ-na.ci/",
+            "ImgUrl": "https://www.univ-na.ci/storage/settings/March2021/q7ebFVlLpG3BnHZWV47N.png"
+        },
+        "Institut National Polytechnique Félix Houphouët-Boigny - Centre Anyama": {
+            "Title": "INP-HB - Centre Anyama",
+            "ShortDesc": "Centre de formation technique et professionnelle",
+            "Desc": "Ce centre de l'INP-HB à Anyama propose des formations courtes et professionnalisantes dans les domaines industriels et technologiques.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        },
+        "École Normale Supérieure - Annexe Anyama": {
+            "Title": "ENS - Annexe Anyama",
+            "ShortDesc": "Formation des enseignants du secondaire",
+            "Desc": "L'annexe de l'ENS à Anyama participe à la formation des professeurs de collèges et lycées pour la région d'Abidjan.",
+            "fullDesc": "https://www.ensabidjan.ci/",
+            "ImgUrl": "https://www.ensabidjan.ci/images/banniere.jpg"
+        },
+        "Campus de l'Université de Cocody à Bingerville": {
+            "Title": "Campus de l'Université de Cocody à Bingerville",
+            "ShortDesc": "Extension de l'Université de Cocody située à Bingerville.",
+            "Desc": "Le campus de l'Université de Cocody à Bingerville est une extension de l'Université de Cocody. Il a été rénové pour accueillir des étudiants et propose des infrastructures modernes incluant des salles pédagogiques, amphithéâtres, bureaux administratifs, et logements étudiants.",
+            "fullDesc": "https://www.univ-fhb.edu.ci/",
+            "ImgUrl": "https://th.bing.com/th/id/R.c931b11068e7efb010d27d076534a880?rik=1Nr5kdCHE4jKAQ&pid=ImgRaw"
+        },
+        "Pôle Scientifique et d'Innovation (PSI) de Bingerville": {
+            "Title": "Pôle Scientifique et d'Innovation (PSI) de Bingerville",
+            "ShortDesc": "Centre d'innovation et de recherche situé à Bingerville.",
+            "Desc": "Le Pôle Scientifique et d'Innovation (PSI) est un centre créé en 2012 sur le campus de Bingerville. Il abrite des services de recherche, le Centre national de Calcul de Côte d'Ivoire, et des formations doctorales, contribuant au développement industriel de la Côte d'Ivoire.",
+            "fullDesc": "https://w.univ-fhb.edu.ci/le-pole-scientifique-et-dinnovation/",
+            "ImgUrl": "https://th.bing.com/th/id/R.c931b11068e7efb010d27d076534a880?rik=1Nr5kdCHE4jKAQ&pid=ImgRaw"
+        },
+        "Université Polytechnique de Bingerville (UPB)": {
+            "Title": "Université Polytechnique de Bingerville (UPB)",
+            "ShortDesc": "Université privée située à Bingerville, spécialisée dans les technologies et sciences du futur.",
+            "Desc": "L'Université Polytechnique de Bingerville est une institution privée qui se positionne parmi les meilleures universités privées de Côte d'Ivoire. Elle propose des formations en technologies et sciences du futur.",
+            "fullDesc": "https://upb.ci",
+            "ImgUrl": "https://upb.ci/web/image/website/1/logo/Site%20Officiel%20UPB?unique=297fb06"
+        }
+            
+        },
+    "Bouaké": {
+        "Université Alassane Ouattara (UAO)": {
+            "Title": "Université Alassane Ouattara",
+            "ShortDesc": "Principale université de Bouaké, offrant des formations pluridisciplinaires.",
+            "Desc": "L'Université Alassane Ouattara (UAO), située à Bouaké, est l'une des principales universités de Côte d'Ivoire. Elle propose des formations en sciences, lettres, droit, économie, santé et sciences sociales. Fondée en 1992, elle contribue au développement de l'enseignement supérieur dans le centre du pays.",
+            "fullDesc": "https://univ-ao.edu.ci/",
+            "ImgUrl": "https://i0.wp.com/univ-ao.edu.ci/wp-content/uploads/2021/06/LOGO-PSD.png?w=1250&ssl=1"
+        },
+        "Institut National Polytechnique Félix Houphouët-Boigny (INP-HB) - Siège": {
+            "Title": "INP-HB (Siège Yamoussoukro/Bouaké)",
+            "ShortDesc": "Grande école d'ingénieurs et de formation professionnelle.",
+            "Desc": "L'INP-HB, basé principalement à Yamoussoukro mais avec une présence à Bouaké, est une institution de référence dans la formation d'ingénieurs et de techniciens supérieurs en agronomie, industrie et mines.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        },
+        "École Nationale Supérieure des Statistiques et de l'Économie Appliquée (ENSEA) - Antenne Bouaké": {
+            "Title": "ENSEA (Antenne Bouaké)",
+            "ShortDesc": "École spécialisée en statistiques et économie appliquée.",
+            "Desc": "L'ENSEA, dont le siège est à Abidjan, dispose d'une antenne à Bouaké, offrant des formations en statistique, économie appliquée et démographie pour répondre aux besoins en expertise quantitative.",
+            "fullDesc": "https://ensea.ed.ci/",
+            "ImgUrl": "https://ensea.ed.ci/wp-content/uploads/2021/07/logo_ensea.png"
+        }
+    },
+    "Korhogo": {
+        "Université Peleforo Gon Coulibaly (UPGC)": {
+            "Title": "Université Peleforo Gon Coulibaly",
+            "ShortDesc": "Principale université du Nord de la Côte d'Ivoire, basée à Korhogo.",
+            "Desc": "L'Université Peleforo Gon Coulibaly (UPGC) de Korhogo est un établissement public créé en 2015. Elle propose des formations en sciences, technologies, santé, lettres et sciences humaines. L'université joue un rôle clé dans le développement de l'enseignement supérieur dans la région des Savanes.",
+            "fullDesc": "https://fr.wikipedia.org/wiki/Universit%C3%A9_P%C3%A9l%C3%A9foro-Gbon-Coulibaly",
+            "ImgUrl": "https://www.bing.com/th/id/OIP.vWE2sbDBR-hD1a-lqNAlOAHaEp?w=312&h=200&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        "Institut National Polytechnique Félix Houphouët-Boigny (INP-HB) - Antenne Korhogo": {
+            "Title": "INP-HB (Antenne Korhogo)",
+            "ShortDesc": "Antenne locale de la grande école d'ingénieurs.",
+            "Desc": "L'INP-HB dispose d'une antenne à Korhogo proposant des formations techniques et professionnelles dans les domaines de l'agro-industrie et des technologies, en lien avec les spécificités économiques de la région.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        },
+        "École Normale Supérieure (ENS) - Antenne Korhogo": {
+            "Title": "ENS (Antenne Korhogo)",
+            "ShortDesc": "Formation des enseignants du secondaire pour le Nord ivoirien.",
+            "Desc": "L'ENS d'Abidjan dispose d'une antenne à Korhogo chargée de former les professeurs de collèges et lycées pour les régions du Nord, avec des adaptations aux contextes locaux.",
+            "fullDesc": "https://www.ensabidjan.ci/",
+            "ImgUrl": "https://www.ensabidjan.ci/images/banniere.jpg"
+        }
+    },
+    "Daloa": {
+        "Université Jean Lorougnon Guédé (UJLoG)": {
+            "Title": "Université Jean Lorougnon Guédé",
+            "ShortDesc": "Principale université de l'Ouest ivoirien, basée à Daloa.",
+            "Desc": "L'Université Jean Lorougnon Guédé (UJLoG) de Daloa est un établissement public créé en 2015. Elle propose des formations en sciences naturelles, sciences sociales, lettres et langues, avec un accent particulier sur les spécificités de la région Ouest de la Côte d'Ivoire.",
+            "fullDesc": "http://www.ujlog.edu.ci/",
+            "ImgUrl": "https://ujlog.edu.ci/wp-content/uploads/2021/07/logo-ujlog-2.png"
+        },
+        "Institut National Polytechnique Félix Houphouët-Boigny (INP-HB) - Antenne Daloa": {
+            "Title": "INP-HB (Antenne Daloa)",
+            "ShortDesc": "Antenne locale spécialisée en agro-industrie.",
+            "Desc": "L'INP-HB dispose d'une antenne à Daloa proposant des formations techniques dans le domaine agro-industriel, en adéquation avec le potentiel agricole de la région.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        },
+        "École Normale Supérieure (ENS) - Antenne Daloa": {
+            "Title": "ENS (Antenne Daloa)",
+            "ShortDesc": "Formation des enseignants pour la région Ouest.",
+            "Desc": "Antenne locale de l'ENS chargée de former les professeurs de collèges et lycées pour les régions de l'Ouest ivoirien.",
+            "fullDesc": "https://www.ensabidjan.ci/",
+            "ImgUrl": "https://www.ensabidjan.ci/images/banniere.jpg"
+        }
+    },
+    "San-Pédro": {
+        "Université des Sciences et Technologies de San-Pédro (UST-SP)": {
+            "Title": "Université des Sciences et Technologies de San-Pédro",
+            "ShortDesc": "Jeune université spécialisée dans les domaines portuaires et technologiques.",
+            "Desc": "Créée en 2021, l'UST-SP est un établissement public innovant axé sur les formations maritimes, portuaires et technologiques. Elle répond aux besoins spécifiques de la région du Bas-Sassandra, hub économique et portuaire majeur.",
+            "fullDesc": "https://usp.edu.ci/",
+            "ImgUrl": "https://usp.edu.ci/static/images/social/logo.jpg"
+        },
+        "Institut Universitaire de Technologie de San-Pédro (IUT-SP)": {
+            "Title": "Institut Universitaire de Technologie de San-Pédro",
+            "ShortDesc": "Antenne de l'INP-HB spécialisée dans les technologies portuaires.",
+            "Desc": "Établissement rattaché à l'INP-HB, l'IUT-SP forme des techniciens supérieurs en logistique portuaire, maintenance industrielle et génie civil, avec des infrastructures adaptées au contexte local.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        },
+        "École Supérieure des Métiers du Port (ESMP)": {
+            "Title": "École Supérieure des Métiers du Port",
+            "ShortDesc": "Institution spécialisée dans la formation aux métiers portuaires.",
+            "Desc": "Sous tutelle du Ministère des Transports, l'ESMP propose des formations professionnelles en exploitation portuaire, manutention et gestion logistique, bénéficiant de partenariats avec le Port Autonome de San-Pédro.",
+            "fullDesc": "https://emsp.int/index.php/ecole-multinationale-superieure-des-postes",
+            "ImgUrl": "https://emsp.int/images/ILLUSTRATIONS/logo-EMSP-1.png"
+        }
+    },
+    "Yamoussoukro": {
+        "Institut National Polytechnique Félix Houphouët-Boigny": {
+            "Title": "Institut National Polytechnique Félix Houphouët-Boigny",
+            "ShortDesc": "Établissement public de formation supérieure et de recherche situé à Yamoussoukro.",
+            "Desc": "L'Institut National Polytechnique Félix Houphouët-Boigny (INP-HB) est une institution publique spécialisée dans la formation d'ingénieurs, de techniciens supérieurs et de cadres dans des domaines variés tels que l'agronomie, le génie civil, l'industrie, et la gestion. Créé en 1996, il regroupe plusieurs grandes écoles.",
+            "fullDesc": "https://www.inphb.ci/",
+            "ImgUrl": "https://www.adminsite.inphb.app/Imagessiteprincipal/Icon.png"
+        }
+    },    
+    "Man": {
+        "Université de Man": {
+            "Title": "Université de Man",
+            "ShortDesc": "Université publique située à Man, spécialisée dans divers domaines scientifiques et techniques.",
+            "Desc": "L'Université de Man (U-Man) est une institution publique créée en 2015, située dans la région du Tonkpi. Elle offre des formations en Agroforesterie, Tourisme, Mines et Géologie, Énergie, métallurgie et mécanique, entre autres. L'université dispose d'infrastructures modernes et se positionne comme un pôle d'excellence dans l'enseignement supérieur en Côte d'Ivoire.",
+            "fullDesc": "https://univ-man.edu.ci",
+            "ImgUrl": "https://univ-man.edu.ci/assets/img/part/uman.png"
+        }
+    }
+}
