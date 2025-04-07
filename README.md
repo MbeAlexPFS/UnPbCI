@@ -1,5 +1,5 @@
 # UnPbCI (les universités publiques de la Côte d'Ivoire)
-Est un projet presonnel dans lequel on peut rechercher des universités publiques par ville via une carte interactive du pays.
+Est un projet presonnel dans lequel on peut rechercher des universités publiques par ville via une carte interactive du pays. (basé sur le projet SiToRCI)
 
 ## Fonctionnalités
 - Barre de recherche.
