@@ -172,9 +172,9 @@ function update() {
                     <div class="d-grid gap-2">
                         <button
                             type="button"
-                            onclick=${ show(region,el) }
+                            name="`+region+`,`+el+`"
                             data-bs-toggle="modal" data-bs-target="#seeMore"
-                            class="btn btn-primary"
+                            class="btn btn-primary showBtn"
                         >
                             Voir plus
                         </button>
@@ -187,10 +187,16 @@ function update() {
     }})
     if (searchInput.value != "" && container.innerHTML == ``) {
         container.innerHTML = `<div title="empty" class="w-100 h-100 bg-secondary text-white d-flex align-items-center text-center p-2"><h6>Aucun site ne correspond à votre recherche</h6></div>`   
-    }    
+    }
+    document.querySelectorAll(".showBtn").forEach((btn) => {
+        btn.onclick = () => { show(btn.getAttribute("name").split(",")[0],btn.getAttribute("name").split(",")[1]) }
+    })  
+     
 }
 
 //change popup data
+
+
 function show(region,site) {
     let sregion = document.querySelector("#showRegion")
     sregion.textContent = region

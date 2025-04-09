@@ -21,9 +21,11 @@ function render() {
     let city_desc = document.querySelector("#rdesc")
     let univ = document.querySelector("#stdesc")
     let galerie = document.querySelector("#gdesc")
+
+    //header
+    document.title = "UnPbCI - " + city
+
     if (city_data != null && univ_data != null) {
-        //header
-        document.title = "UnPbCI - " + city
 
         //city title
         city_title.forEach((e) => {
@@ -62,7 +64,7 @@ function render() {
                     <p class="mt-3">
                         ${univ_data[un].Desc}
                     </p>
-                    <p>Pour plus d"information voir : <a href="${univ_data[un].fullDesc}" target="_blank" >${univ_data[un].fullDesc}</a> </p>
+                    <p>Pour plus d'information voir : <a href="${univ_data[un].fullDesc}" target="_blank" >${univ_data[un].fullDesc}</a> </p>
                 </div>
             </div>`    
         })
@@ -73,5 +75,15 @@ function render() {
             galerie.innerHTML +=
             `<div class="col-md"><img width="300px" src="${univ_data[un].ImgUrl}" height="300px"></div>`
         })
+
+    }else if (city_data == null && univ_data == null) {
+        document.querySelector("#body").innerHTML = 
+            `<div class="card text-start mt-5">
+                <div class="card-body">
+                    <h4 class="card-title">Desolé</h4>
+                    <p class="card-text text-secondary">Il y'a aucune université publique à ${city}</p>
+                </div>
+            </div>`
     }
+
 }
